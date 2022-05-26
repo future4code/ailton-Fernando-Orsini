@@ -1,0 +1,87 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gabriela', serif;
+}
+
+.cabecalho {
+    background-color: rgb(247, 149, 149);
+    height: 200px;
+    text-align: center;
+    padding: 40px;
+}
+
+.cabecalho-sub {
+    background-color: rgb(247, 149, 149);
+    color: white;
+    font-size: 20px;
+    height: 50px;
+    text-align: right;
+    padding: 10px;
+}
+
+h2 {
+    margin: 20px;
+}
+.cabecalho > p {
+    font-style: italic;
+    padding-top: 10px;
+}
+
+.links {
+    height: 50px;
+    text-align: center;
+} */
+
+.header {
+    background-color:lightblue;
+    height: 200px;
+    text-align: center;
+    padding: 40px;
+}
+
+.footer {
+    color: lightseagreen;
+    font-style: normal;
+    text-align: center;
+}
+
+.brand {
+    color: lightseagreen;
+    font-style: normal;
+    text-align: center;
+}
+
+.slogan {
+    color: lightseagreen;
+    font-style: normal;
+    text-align: center;
+}
+.texto-footer {
+    color: lightseagreen;
+    font-style: normal;
+    text-align: center;
+}
+
+.texto-funcionarios {
+    color: red;
+    font-style: normal;
+    text-align: center;
+}
+
+.texto-estoque {
+    color: black;
+    font-style: normal;
+    text-align: center;
+}
+.texto-add {
+    color: darkcyan;
+    font-style: normal;
+    text-align: center;
+}
+
+.links {
+    height: 50px;
+    text-align: center;
+}
