@@ -1,0 +1,10 @@
+.cabecalho {
+    background-color: lightblue;
+    height: 200px;
+    text-align: center;
+    padding: 40px;
+}
+.links {
+    height: 50px;
+    text-align: center;
+}
